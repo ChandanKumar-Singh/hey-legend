@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "318543481291",
+    "firebase_url": "https://hey-legend-default-rtdb.firebaseio.com",
+    "project_id": "hey-legend",
+    "storage_bucket": "hey-legend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318543481291:android:5add98026998a219d90e4e",
+        "android_client_info": {
+          "package_name": "com.example.hey_legend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318543481291-0dpso3uo24kujdeavfs73kbvggglea4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hey_legend",
+            "certificate_hash": "2b4bfdc15228854b2ccf874a3022dc04e446be94"
+          }
+        },
+        {
+          "client_id": "318543481291-8sb95pjrb3q7qgnvlhml8058euiu5qfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5LrAVGPEH5vi3VIqUTQOs2XjnhPPVSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318543481291-8sb95pjrb3q7qgnvlhml8058euiu5qfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
